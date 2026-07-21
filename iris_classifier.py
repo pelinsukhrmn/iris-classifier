@@ -38,4 +38,4 @@ print(f"\nSample prediction:")
 print(f"Measurements: {sample_flower[0]}")
 print(f"Predicted flower: {flower_name}")
 
-print("\nDone! My first ML model works :)")
+print("\nDone.")
